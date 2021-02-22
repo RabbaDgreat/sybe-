@@ -1,0 +1,31 @@
+total 104
+drwxr-xr-x 12 toby toby 4096 Feb 22 09:59 ./
+drwxr-xr-x  5 root root 4096 Feb  5 10:54 ../
+-rw-------  1 toby toby 7755 Feb 17 16:39 .bash_history
+-rw-r--r--  1 toby toby  220 Jan 27 15:07 .bash_logout
+-rw-r--r--  1 toby toby 3888 Feb 17 16:41 .bashrc
+drwx------ 15 toby toby 4096 Feb 17 16:30 .cache/
+drwxr-xr-x 16 toby toby 4096 Feb 21 16:42 .config/
+-rw-rw-r--  1 toby toby   13 Feb  1 12:36 .file
+drwxrwxr-x  9 toby toby 4096 Feb 21 16:49 .git/
+-rw-rw-r--  1 toby toby  108 Feb 10 11:23 .gitconfig
+drwxrwxr-x  3 toby toby 4096 Feb 12 12:46 gittest/
+drwx------  3 toby toby 4096 Jan 28 13:52 .gnupg/
+drwxr-xr-x  3 toby toby 4096 Jan 28 13:52 .local/
+drwx------  5 toby toby 4096 Feb  3 12:10 .mozilla/
+drwxrwxr-x  3 toby toby 4096 Feb  8 11:48 Notes/
+-rw-r--r--  1 toby toby  807 Jan 27 15:07 .profile
+-rw-rw-r--  1 toby toby 1212 Feb  5 11:32 rdg
+drwx------  2 toby toby 4096 Feb 10 12:37 .ssh/
+-rw-------  1 toby toby  464 Feb 21 01:05 ssh key
+-rw-rw-r--  1 toby toby    0 Feb 21 01:04 ssh key 
+-rw-r--r--  1 toby toby  104 Feb 21 01:05 ssh key.pub
+-rw-r--r--  1 toby toby    0 Jan 30 11:38 .sudo_as_admin_successful
+-rw-rw-r--  1 toby toby    0 Feb 22 09:59 sybe
+-rw-rw-r--  1 toby toby    0 Feb  1 14:42 test.txt2
+drwx------  6 toby toby 4096 Jan 29 13:21 .thunderbird/
+-rwxrwxr-x  1 toby toby    0 Jan 28 15:17 .txt*
+-rw-r-----  1 toby toby    5 Feb 22 09:57 .vboxclient-clipboard.pid
+-rw-r-----  1 toby toby    5 Feb 22 09:57 .vboxclient-display-svga-x11.pid
+-rw-r-----  1 toby toby    5 Feb 22 09:57 .vboxclient-draganddrop.pid
+-rw-r-----  1 toby toby    5 Feb 22 09:57 .vboxclient-seamless.pid
